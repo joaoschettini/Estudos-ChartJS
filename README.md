@@ -1,1 +1,1 @@
-# Estudos-ChartJS
+# Testes com gráficos de linhas e barras com uso do ChartJs
